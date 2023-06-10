@@ -74,6 +74,11 @@
     status = 404
 
 [[redirects]]
+    from = "/zh-tw/*"
+    to = "/zh-tw/404/index.html"
+    status = 404
+
+[[redirects]]
     from = "/*"
     to = "/i18n/404.en.html"
     status = 404
