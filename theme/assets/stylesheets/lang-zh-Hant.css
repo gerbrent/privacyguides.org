@@ -54,5 +54,5 @@
 
 h1, h2, h3, .md-header__topic {
   font-family: "Bagnard", "Noto Serif TC", serif;
-  font-weight: 700;
+  font-weight: 700!important;
 }
