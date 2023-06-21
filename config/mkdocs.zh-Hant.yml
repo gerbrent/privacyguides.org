@@ -51,11 +51,15 @@ extra:
           data: Needs Improvement
           note: "感謝你的意見！通過在的論壇上開啟<a href='https://discuss.privacyguides.net'>討論來協助我們改善此頁面。</a>"
 
+extra_css:
+  - assets/stylesheets/extra.css?v=3.2.0
+  - assets/stylesheets/lang-zh-Hant.css?v=3.13.0
+
 theme:
   language: zh-Hant
   font:
-    text: Public Sans
-    code: DM Mono
+    text: Noto Sans TC
+    code: Noto Sans TC
   palette:
     - media: "(prefers-color-scheme)"
       scheme: default
