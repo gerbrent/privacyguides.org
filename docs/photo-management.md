@@ -19,7 +19,7 @@ icon: material/image
         - [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=io.ente.photos)
         - [:simple-android: Android](https://ente.io/download)
         - [:simple-appstore: App Store](https://apps.apple.com/app/id1542026904)
-        - [:simple-github: GitHub](https://github.com/laurent22/joplin-android/releases)
+        - [:simple-github: GitHub](https://github.com/ente-io/photos-app/releases)
         - [:simple-windows11: Windows](https://ente.io/download)
         - [:simple-apple: macOS](https://ente.io/download)
         - [:simple-linux: Linux](https://ente.io/download)
