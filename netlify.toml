@@ -74,7 +74,7 @@
     status = 404
 
 [[redirects]]
-    from = "/zh-Hant/*"
+    from = "/zh-hant/*"
     to = "/i18n/404.zh-Hant.html"
     status = 404
 
