@@ -42,10 +42,6 @@ extra:
       link: /en/
       lang: en
       icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1fa-1f1f8.svg
-    - name: Chinese Traditional
-      link: /zh-tw/
-      lang: en
-      icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f9-1f1fc.svg
     - name: Español
       link: /es/
       lang: es
@@ -66,6 +62,10 @@ extra:
       link: /nl/
       lang: nl
       icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f3-1f1f1.svg
+    - name: 繁体字
+      link: /zh-Hant/
+      lang: zh-Hant
+      icon: https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1ed-1f1f0.svg
 
 repo_url: https://github.com/privacyguides/privacyguides.org
 repo_name: ""
