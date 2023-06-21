@@ -53,8 +53,6 @@ extra:
 
 theme:
   language: zh-Hant
-  # ENGLISH ONLY: this logo needs to be set separately because the relative path is different
-  logo: ../theme/assets/brand/SVG/Logo/privacy-guides-logo-notext-colorbg.svg
   font:
     text: Public Sans
     code: DM Mono
@@ -81,7 +79,7 @@ theme:
 markdown_extensions:
   pymdownx.snippets:
     auto_append: 
-      - includes/abbreviations.en.txt
+      - includes/abbreviations.zh-Hant.txt
 
 nav:
   - 首頁: 'index.md'
