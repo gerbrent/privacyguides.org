@@ -51,6 +51,10 @@ extra:
           data: Needs Improvement
           note: "Спасибо за ваш отзыв! Помогите нам улучшить эту страницу, <a href='https://discuss.privacyguides.net/'>открыв обсуждение на нашем форуме.</a>"
 
+extra_css:
+  - assets/stylesheets/extra.css?v=3.2.0
+  - assets/stylesheets/lang-ru.css?v=3.13.0
+
 theme:
   language: ru
   font:
