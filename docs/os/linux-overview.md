@@ -3,7 +3,7 @@ title: Linux Overview
 icon: simple/linux
 description: Linux is an open-source, privacy-focused desktop operating system alternative, but not all distribitions are created equal.
 ---
-Linux is an open-source, privacy-focused desktop operating system alternative. Our website generally uses the term “Linux” to describe **desktop** Linux distributions. Other operating systems which also use the Linux kernel such as ChromeOS, Android, and Qubes OS are not discussed here.
+**Linux** is an open-source, privacy-focused desktop operating system alternative. Our website generally uses the term “Linux” to describe **desktop** Linux distributions. Other operating systems which also use the Linux kernel such as ChromeOS, Android, and Qubes OS are not discussed here.
 
 [Our Linux Recommendations :material-arrow-right-drop-circle:](../desktop.md){ .md-button }
 
